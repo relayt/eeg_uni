@@ -1,2 +1,1 @@
-# EEG_AI
-EEG AI
+
